@@ -1,0 +1,2 @@
+/// @description Game Over Variables
+

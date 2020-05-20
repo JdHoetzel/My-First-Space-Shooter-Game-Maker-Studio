@@ -1,0 +1,1 @@
+audio_play_sound(sndBackgroundMusic, 1, true);

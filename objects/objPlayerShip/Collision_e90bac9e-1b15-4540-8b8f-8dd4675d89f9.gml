@@ -1,0 +1,3 @@
+/// @description Colision Laser
+
+collisionEnemy();
